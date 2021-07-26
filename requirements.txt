@@ -1,1 +1,1 @@
-wandb
+git+git://github.com/wandb/client.git@feature/wandb-launch
